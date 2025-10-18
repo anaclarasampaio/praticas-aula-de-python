@@ -1,0 +1,1 @@
+#crie variáveis com nome, idade 
